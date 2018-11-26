@@ -1,7 +1,7 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Stephan Schauerte
+description: Developer from Germany
+url: https://K4ugummi.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,12 +29,12 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:              stephan@schauerte.online
 #google.plus:        username
-twitter:            username
+twitter:            K4ugummi
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+github:             K4ugummi
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -44,7 +44,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           username
+youtube:           K4ugummi
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
