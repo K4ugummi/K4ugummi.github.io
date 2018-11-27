@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Car","A GameObject controlled by a player."]]});
