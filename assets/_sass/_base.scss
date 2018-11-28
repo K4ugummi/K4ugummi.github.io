@@ -237,6 +237,10 @@ dd {
   border-top: 0;
 }
 
+em {
+  font-style: italic;
+  }
+
 // table
 table {
   width: 100%;
@@ -301,3 +305,4 @@ pre {
     background-color: darken($white, 5%);
     font-family: $base-font;
   }
+
