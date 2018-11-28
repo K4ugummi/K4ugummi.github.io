@@ -1,0 +1,34 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body id="docs">
+
+  <div class="block-left">
+    <div class="content">
+      <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo | replace: '.', '-small.' }}"></a>
+      <h1 class="section-title">{{ page.title}}<em>/</em>
+      </h1>
+
+    </div>
+  </div>
+
+  <div class="block-right" width=100%>
+    <a href="{{ site.url }}/posts" title="posts" class="posts-menu-icon"></a>
+    <a href="{{ site.url }}/docs" title="posts" class="posts-menu-icon"></a>
+    <a title="projects" class="projects-menu-icon">
+      <span></span>
+    </a>
+    <div class="content">
+      <iframe width=100% height=100% src="https://k4ugummi.github.io/docs/carambolage/index.html"></iframe>
+    </div>
+  </div>
+  {% include overlay.html %}
+  {% include scripts.html %}
+</body>
+
+</html>

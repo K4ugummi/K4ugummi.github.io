@@ -1,6 +1,6 @@
 # Site
 title: Stephan Schauerte
-description: Developer from Germany
+description: Software developer from Germany
 url: https://K4ugummi.github.io
 logo: logo.png                                       # Site logo
 locale: en_US
@@ -31,7 +31,7 @@ sass:
 # Social Links
 email:              stephan@schauerte.online
 #google.plus:        username
-twitter:            K4ugummi
+#twitter:            K4ugummi
 #facebook:           username
 github:             K4ugummi
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
@@ -44,7 +44,7 @@ linkedin:          stephan-schauerte-510007111
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-youtube:           K4ugummi
+#youtube:           K4ugummi
 #soundcloud:        username
 #weibo:             username
 #flickr:            username

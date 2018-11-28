@@ -2,9 +2,8 @@
 layout: post
 title: "Hello World!"
 categories:
-  - random
+  - blog
 tags:
-  - random
   - blog
 ---
 # Hello world!
